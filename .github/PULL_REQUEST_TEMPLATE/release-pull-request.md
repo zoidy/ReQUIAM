@@ -1,11 +1,5 @@
-<!-- IMPORTANT: Please do not create a PR without creating an issue first. -->
-
-<!-- Fields in **bold** are REQUIRED, fields in *italics* are OPTIONAL. -->
-
 **Description**
-<!-- A description of the updates contained in this release. Example:  -->
-
-Closes #
+<!-- A description of the updates contained in this release.  -->
 
 
 **Update Changelog**
