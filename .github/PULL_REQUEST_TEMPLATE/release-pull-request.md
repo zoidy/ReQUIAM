@@ -1,6 +1,6 @@
 **Description**
-<!-- A description of the updates contained in this release.  -->
-
+<!-- Do not push the release tag until this PR is merged -->
+This pull request updates ReQUIAM v0.xx.x -> v0.xx.0
 
 **Update Changelog**
 <!-- List changes: be brief, use imperative mood or simple noun phrases and add linked issues -->
@@ -9,8 +9,6 @@
 - [ ] [changelog](../../CHANGELOG.md) <!-- update changelog here -->
 
 **Bump version**
-
-v0.xx.x -> v0.xx.0
 
 - [ ] [README.md](../../README.md) (if needed)
 - [ ] [`setup.py`](../../setup.py)
@@ -24,4 +22,4 @@ v0.xx.x -> v0.xx.0
 *Screenshots or additional context*
 <!-- Add any other context about this release. -->
 
-<!-- Do not push the release tag until this PR is merged -->
+
