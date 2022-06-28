@@ -17,7 +17,7 @@ This pull request updates ReQUIAM v0.xx.x -> v0.xx.0
 - [ ] ReadTheDocs [`conf.py`](../../docs/source/getting_started.rst)
 
 **Update Additional Documentation**
-- [ ] [ReadTheDocs files](../../docs/source/). Check and update the appropriate sections as needed
+- [ ] [ReadTheDocs files](../../docs/source/). Check and update the appropriate sections in the .rst files as needed
 
 *Screenshots or additional context*
 <!-- Add any other context about this release. -->
